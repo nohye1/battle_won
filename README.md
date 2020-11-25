@@ -1,3 +1,3 @@
-# portfoilo + start
+# portfoilo 배틀그라운드 클론
 
-포트폴리오 사이트
+포트폴리오 - 배틀그라운드 사이트
